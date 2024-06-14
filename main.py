@@ -15,7 +15,7 @@ print(mean)
 first_string = 'Понедельник'
 second_string = 'Вторник'
 print(first_string + ', ' + second_string)
-ё
+
 a = 2
 b = 3
 c = 4
